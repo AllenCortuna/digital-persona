@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\OLSEN\digitalPersonaApp\obj\Debug\digitalPersonaApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OLSEN\digitalPersonaApp\obj\Debug\digitalPersonaApp.Form1.resources
+C:\Users\User\Desktop\OLSEN\digitalPersonaApp\obj\Debug\digitalPersonaApp.Properties.Resources.resources
+C:\Users\User\Desktop\OLSEN\digitalPersonaApp\obj\Debug\digitalPersonaApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OLSEN\digitalPersonaApp\obj\Debug\digitalPersonaApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OLSEN\digitalPersonaApp\bin\Debug\digitalPersonaApp.exe.config
+C:\Users\User\Desktop\OLSEN\digitalPersonaApp\bin\Debug\digitalPersonaApp.exe
+C:\Users\User\Desktop\OLSEN\digitalPersonaApp\bin\Debug\digitalPersonaApp.pdb
+C:\Users\User\Desktop\OLSEN\digitalPersonaApp\bin\Debug\DPFPDevNET.dll
+C:\Users\User\Desktop\OLSEN\digitalPersonaApp\bin\Debug\DPFPEngNET.dll
+C:\Users\User\Desktop\OLSEN\digitalPersonaApp\bin\Debug\DPFPGuiNET.dll
+C:\Users\User\Desktop\OLSEN\digitalPersonaApp\bin\Debug\DPFPShrNET.dll
+C:\Users\User\Desktop\OLSEN\digitalPersonaApp\bin\Debug\DPFPVerNET.dll
+C:\Users\User\Desktop\OLSEN\digitalPersonaApp\obj\Debug\digitalP.EDE77E59.Up2Date
+C:\Users\User\Desktop\OLSEN\digitalPersonaApp\obj\Debug\digitalPersonaApp.exe
+C:\Users\User\Desktop\OLSEN\digitalPersonaApp\obj\Debug\digitalPersonaApp.pdb
