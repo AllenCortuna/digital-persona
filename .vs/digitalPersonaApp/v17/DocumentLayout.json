@@ -3,12 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\OLSEN\\digitalPersonaApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3960503-96F7-4D3D-AAD9-03D8F44AADAF}|digitalPersonaApp.csproj|c:\\users\\user\\desktop\\olsen\\digitalpersonaapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3960503-96F7-4D3D-AAD9-03D8F44AADAF}|digitalPersonaApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|digitalPersonaApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3960503-96F7-4D3D-AAD9-03D8F44AADAF}|digitalPersonaApp.csproj|C:\\Users\\User\\Desktop\\OLSEN\\digitalPersonaApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F3960503-96F7-4D3D-AAD9-03D8F44AADAF}|digitalPersonaApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3960503-96F7-4D3D-AAD9-03D8F44AADAF}|digitalPersonaApp.csproj|C:\\Users\\User\\Desktop\\OLSEN\\digitalPersonaApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3960503-96F7-4D3D-AAD9-03D8F44AADAF}|digitalPersonaApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3960503-96F7-4D3D-AAD9-03D8F44AADAF}|digitalPersonaApp.csproj|C:\\Users\\User\\Desktop\\OLSEN\\digitalPersonaApp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3960503-96F7-4D3D-AAD9-03D8F44AADAF}|digitalPersonaApp.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3960503-96F7-4D3D-AAD9-03D8F44AADAF}|digitalPersonaApp.csproj|C:\\Users\\User\\Desktop\\OLSEN\\digitalPersonaApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3960503-96F7-4D3D-AAD9-03D8F44AADAF}|digitalPersonaApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3960503-96F7-4D3D-AAD9-03D8F44AADAF}|digitalPersonaApp.csproj|c:\\users\\user\\desktop\\olsen\\digitalpersonaapp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|984ae51a-4b21-44e7-822c-dd5e046893ef"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +32,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "digitalPersonaApp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OLSEN\\digitalPersonaApp\\digitalPersonaApp.csproj",
+              "RelativeDocumentMoniker": "digitalPersonaApp.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OLSEN\\digitalPersonaApp\\digitalPersonaApp.csproj",
+              "RelativeToolTip": "digitalPersonaApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-28T02:03:14.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OLSEN\\digitalPersonaApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OLSEN\\digitalPersonaApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:01:24.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OLSEN\\digitalPersonaApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OLSEN\\digitalPersonaApp\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T01:58:58.273Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -29,21 +79,19 @@
               "ToolTip": "C:\\Users\\User\\Desktop\\OLSEN\\digitalPersonaApp\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T03:14:25.703Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-29T03:38:31.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\OLSEN\\digitalPersonaApp\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\OLSEN\\digitalPersonaApp\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAADgv5MAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowG8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T02:09:04.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T02:09:04.988Z"
             }
           ]
         }

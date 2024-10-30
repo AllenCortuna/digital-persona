@@ -37,6 +37,9 @@ namespace digitalPersonaApp
                 {
                     Capturer.EventHandler = this;
                     MakeReport("Press start capture to start scanning.");
+
+                    // Set SizeMode to CenterImage
+                    fImage.SizeMode = PictureBoxSizeMode.CenterImage;
                 }
                 else
                 {
@@ -106,6 +109,7 @@ namespace digitalPersonaApp
         private void DrawPicture(Bitmap bitmap)
         {
             fImage.Image = new Bitmap(bitmap, fImage.Size);
+            //fImage.Image = bitmap;
         }
 
         private void SaveFingerprint(Bitmap bitmap)

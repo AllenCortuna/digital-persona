@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.StatusText = new System.Windows.Forms.Label();
             this.fImage = new System.Windows.Forms.PictureBox();
             this.button1 = new System.Windows.Forms.Button();
@@ -38,7 +39,7 @@
             // StatusText
             // 
             this.StatusText.AutoSize = true;
-            this.StatusText.Location = new System.Drawing.Point(27, 414);
+            this.StatusText.Location = new System.Drawing.Point(32, 401);
             this.StatusText.Name = "StatusText";
             this.StatusText.Size = new System.Drawing.Size(35, 13);
             this.StatusText.TabIndex = 0;
@@ -47,15 +48,23 @@
             // 
             // fImage
             // 
-            this.fImage.Location = new System.Drawing.Point(30, 12);
+            this.fImage.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.fImage.Location = new System.Drawing.Point(62, 19);
+            this.fImage.Margin = new System.Windows.Forms.Padding(0);
             this.fImage.Name = "fImage";
-            this.fImage.Size = new System.Drawing.Size(354, 386);
+            this.fImage.Padding = new System.Windows.Forms.Padding(0, 50, 20, 50);
+            this.fImage.Size = new System.Drawing.Size(302, 332);
             this.fImage.TabIndex = 1;
             this.fImage.TabStop = false;
             this.fImage.Click += new System.EventHandler(this.fImage_Click);
             // 
             // button1
             // 
+            this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.button1.Location = new System.Drawing.Point(273, 431);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(111, 23);
@@ -83,8 +92,9 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.fImage);
             this.Controls.Add(this.StatusText);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "o";
+            this.Text = "Fingerprint Scanner";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.fImage)).EndInit();
             this.ResumeLayout(false);
